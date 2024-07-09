@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Product extends Model
 {
     use HasFactory;
-    protected $connection = 'sqlite';
-    protected $table = 'products';
+    // protected $connection = 'sqlite';
+    // protected $table = 'products';
     protected $fillable = ['name', 'description', 'price', 'quantity'];
 }

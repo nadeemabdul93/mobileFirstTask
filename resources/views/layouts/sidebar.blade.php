@@ -38,7 +38,7 @@
                   <p>Dashboard</p>
                   <span class="caret"></span>
                 </a>
-                <div class="collapse" id="dashboard">
+                <!-- <div class="collapse" id="dashboard">
                   <ul class="nav nav-collapse">
                     <li class="nav-item"><a href="#">
                         <span class="sub-item">User list</span>
@@ -48,7 +48,7 @@
                       </a></li>
                     
                   </ul>
-                </div>
+                </div> -->
               </li>
                      
               
